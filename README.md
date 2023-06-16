@@ -1,5 +1,5 @@
-<div>
+<div align="center">
   
-<img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrcella&layout-compact&langs_count=16&theme=dracula"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrcella&layout-compact&langs_count=16&theme=dracula"/>
 
 </div>
