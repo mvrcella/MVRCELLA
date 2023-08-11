@@ -3,10 +3,17 @@
 <p align="left"> 
   Olá, me chamo Marcella, sou Técnica em Informática.<br>
   Atualmente, estou estudando <strong>Desenvolvimento Back-End</strong> na Impacta. <br><br>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrcella&layout=compact&theme=merko"> <br><br> 
+
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrcella&layout=compact&theme=merko"> <br><br> 
+  
   <h3>Contatos</h3>
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcellabp/)](https://www.linkedin.com/in/marcellabp/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:marcellapbeatriz@gmail.com)
+  <a href="mailto:marcellapbeatriz@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:marcellapbeatriz@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/marcellabp/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcellabp/" /></a>
+
+
 </p>
 
