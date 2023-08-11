@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá! Me chamo Marcella, sou técnica em Informática.<br>
-  Atualmente, estou estudando <strong>Desenvolvimento Back-End</strong> na Impacta. <br><br>
+  Sou estudante de <strong>Desenvolvimento Back-End</strong> na Impacta. <br><br>
 
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrcella&layout=compact&theme=merko"> <br><br> 
   
