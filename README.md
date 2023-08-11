@@ -13,11 +13,13 @@
   
   <a href="mailto:marcellapbeatriz@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:marcellapbeatriz@gmail.com" /></a>
-<br><br><br>
-  
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=w8e9iazh0y2b5x9pf2kch667i&width=300)
-
 </p>
+<br>
+  
+
+
+
+
 
 
 
