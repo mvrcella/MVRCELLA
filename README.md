@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Me chamo Marcella, técnica em Informática.<br>
-  Sou estudante de <strong>Desenvolvimento Back-End</strong> na Impacta. <br><br>
+  Marcella, técnica em Informática.<br>
+  Estudante de <strong>Desenvolvimento Back-End</strong> na Impacta. <br><br>
 
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrcella&layout=compact&theme=merko"> <br><br> 
   
